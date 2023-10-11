@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
----
+
 I'm Samuel, an aspiring professional in Applied Artificial Intelligence, currently advancing my knowledge at SIT. My insatiable curiosity and unwavering passion for innovation drive my journey in the captivating realms of Machine Learning and Data Science. I'm on a mission to unearth the transformative power these fields hold and how they can reshape our world. I'm always open to connect, collaborate, or simply have a chat. Feel free to reach out!"
 
 
@@ -16,9 +16,6 @@ I'm Samuel, an aspiring professional in Applied Artificial Intelligence, current
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgjy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
