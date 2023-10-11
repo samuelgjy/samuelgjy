@@ -5,6 +5,8 @@
 
 I'm Samuel, an aspiring professional in Applied Artificial Intelligence, currently advancing my knowledge at SIT. My insatiable curiosity and unwavering passion for innovation drive my journey in the captivating realms of Machine Learning and Data Science. I'm on a mission to unearth the transformative power these fields hold and how they can reshape our world. I'm always open to connect, collaborate, or simply have a chat. Feel free to reach out!"
 
+
+<div>Language and Tools</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
