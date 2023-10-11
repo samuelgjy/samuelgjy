@@ -1,4 +1,8 @@
 ### Hey there!! 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 I'm Samuel, an aspiring professional in Applied Artificial Intelligence, currently advancing my knowledge at SIT. My insatiable curiosity and unwavering passion for innovation drive my journey in the captivating realms of Machine Learning and Data Science. I'm on a mission to unearth the transformative power these fields hold and how they can reshape our world. I'm always open to connect, collaborate, or simply have a chat. Feel free to reach out!"
 
 <!--
