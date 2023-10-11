@@ -18,7 +18,8 @@ I'm Samuel, an aspiring professional in Applied Artificial Intelligence, current
 </div>
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=samuelgjy
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelgjy&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
